@@ -1,0 +1,120 @@
+header{
+  background-color: gray;
+  text-align: center;
+  border: #811141;
+  border-radius: 490px;
+  font-size:40px;
+}
+body{
+  text-align: center;
+  text-overflow: center;
+  text-justify: center;
+  background-color: #1E1E0DD9;
+  padding: 10px;
+}
+h1{
+  color: #FFFFFFD9;
+ background-color:Black;
+ border: #FFEFF6;
+ border-style: groove;
+ border-radius: 490px;
+ 
+}
+p1{
+  color: white;
+  font-size: 80px;
+  background-color: #7FAA05A6;
+  border: black ;
+  border-radius: 40px;
+  
+}
+p{
+  color: white;
+  background-color: black;
+  font-size: 100px;
+  border:40px ;
+  border-color: navajowhite;
+  border-radius: 49px
+}
+div{
+  color: #7A2727;
+  background-position: center;
+}
+.topnav{
+  color: gold;
+  background-color: white;
+  font-size: 75px;
+  border: rebeccapurple;
+  border-top: 10px;
+  border-radius: 49px;
+}
+.topnav a{
+  background: #FFF #45072E;
+  color: #931010;
+}
+.topnav a:hover{
+  background-color: gold;
+  color: black;
+  border: yellow;
+  border-radius: 20px
+}
+h2{
+  background-color: darkslategray;
+  font-size: 100px;
+  border-color: 10px;
+  border-radius: 60px;
+}
+p{
+  background-color: green#E6E6E6;
+  font-size: 40px;
+  color: #E6E6E6;
+}
+footer{
+  color: navajowhite;
+  background-color: sienna;
+  font-size: 60px;
+  border-radius: 50px
+}
+ul{
+ font-size: 30px;
+ background-color: seagreen;
+ border-radius: 10px
+}
+p2{
+  font-size:50px;
+  color: whitesmoke;
+  background-color: purple;
+  border-radius: 10px;
+}
+p3{
+  font-size: 50px;
+  background-color: #52333D;
+  color: white;
+}
+h3{
+  color: aqua;
+  background-color: #52333D;
+  font-size: 100px;
+  border-radius: 100px
+}
+p5{
+  color: goldenrod;
+  background: gainsboro;
+  font-size: 50px;
+  border-radius: 50px;
+  
+}
+p4{
+  color: black;
+  background: lightgreen;
+  border-color: gray;
+  border-radius: 50px;
+  font-size: 50px;
+}
+table,th,tr,td{
+  border: solid;
+  background-color: lightslategrey;
+  font-size: 65px;
+  width: 400;
+  padding: 20PX 10PX
+}
